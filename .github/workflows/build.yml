@@ -2,22 +2,29 @@ name: Build
 'on':
   push:
     branches:
-      - main
+      - '*'
   pull_request:
     types:
       - opened
       - synchronize
       - reopened
 jobs:
-  sonarcloud:
-    name: SonarCloud
+  build:
+    name: Build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: SonarCloud Scan
-        uses: SonarSource/sonarcloud-github-action@master
+      - name: Set up JDK 11
+        uses: actions/setup-java@v1
+        with:
+          java-version: 11
+      - name: Build and analyze
         env:
           GITHUB_TOKEN: 0ee1e21d-8928-499c-9f9d-fdedf96848c3
           SONAR_TOKEN: 811c9a490983734401ba4e491eaefc8bfa7281de
+        run: >-
+          mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
+          -Dsonar.projectKey=iamneo-production_0ee1e21d-8928-499c-9f9d-fdedf96848c3
+          -Dsonar.login=811c9a490983734401ba4e491eaefc8bfa7281de
