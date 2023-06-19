@@ -21,7 +21,3 @@ jobs:
         env:
           GITHUB_TOKEN: 0ee1e21d-8928-499c-9f9d-fdedf96848c3
           SONAR_TOKEN: 811c9a490983734401ba4e491eaefc8bfa7281de
-          args: >-
-            -Dsonar.projectKey=iamneo-production_0ee1e21d-8928-499c-9f9d-fdedf96848c3
-            -Dsonar.organization=iamneo-production -Dsonar.sources=
-            -Dsonar.verbose=true
