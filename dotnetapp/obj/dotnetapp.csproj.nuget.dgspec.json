@@ -38,6 +38,7 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+<<<<<<< HEAD
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -53,12 +54,21 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.8, )"
+=======
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
+<<<<<<< HEAD
               "version": "[7.0.8, )"
+=======
+              "version": "[6.0.0, )"
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
@@ -66,6 +76,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
+<<<<<<< HEAD
               "version": "[7.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
@@ -73,6 +84,9 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.8, )"
+=======
+              "version": "[6.0.0, )"
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
             },
             "Moq": {
               "target": "Package",
@@ -85,10 +99,13 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+<<<<<<< HEAD
             },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.5, )"
+=======
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
             }
           },
           "imports": [

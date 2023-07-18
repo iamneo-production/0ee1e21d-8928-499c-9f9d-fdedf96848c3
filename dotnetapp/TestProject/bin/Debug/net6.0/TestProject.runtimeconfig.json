@@ -10,9 +10,13 @@
         "name": "Microsoft.AspNetCore.App",
         "version": "6.0.0"
       }
+<<<<<<< HEAD
     ],
     "configProperties": {
       "System.Reflection.NullabilityInfoContext.IsSupported": true
     }
+=======
+    ]
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
   }
 }

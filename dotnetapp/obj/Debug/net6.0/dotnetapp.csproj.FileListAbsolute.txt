@@ -7,6 +7,7 @@
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp.runtimeconfig.json
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp.pdb
+<<<<<<< HEAD
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Azure.Core.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Azure.Identity.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Castle.Core.dll
@@ -14,6 +15,10 @@
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+=======
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Castle.Core.dll
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Humanizer.dll
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -21,6 +26,7 @@
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+<<<<<<< HEAD
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
@@ -34,22 +40,31 @@
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+=======
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+<<<<<<< HEAD
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Mono.TextTemplating.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Moq.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Newtonsoft.Json.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+=======
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Moq.dll
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/nunit.framework.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+<<<<<<< HEAD
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.CodeDom.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Data.SqlClient.dll
@@ -61,6 +76,14 @@
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Security.Permissions.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Text.Encodings.Web.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Text.Json.dll
+=======
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Security.Permissions.dll
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/System.Windows.Extensions.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
@@ -69,16 +92,22 @@
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+<<<<<<< HEAD
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+=======
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+<<<<<<< HEAD
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+=======
+>>>>>>> 6aaffdb8d69713718bcda23c8068e1a13602df4f
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
 /home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.csproj.AssemblyReference.cache
 /home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.GeneratedMSBuildEditorConfig.editorconfig
