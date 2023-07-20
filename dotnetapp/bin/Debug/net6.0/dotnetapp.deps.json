@@ -29,7 +29,11 @@
           "NUnit": "3.13.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "System.Data.SqlClient": "4.8.5"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "runtime": {
           "dotnetapp.dll": {}
@@ -71,7 +75,11 @@
           }
         }
       },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "Castle.Core/5.1.1": {
         "dependencies": {
           "System.Diagnostics.EventLog": "6.0.0"
@@ -309,7 +317,11 @@
           "lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.0.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         },
         "runtimeTargets": {
@@ -322,7 +334,11 @@
 =======
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.0.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           },
           "runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
             "rid": "win",
@@ -341,7 +357,11 @@
         }
       },
       "Microsoft.Data.SqlClient.SNI.runtime/5.0.1": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "runtimeTargets": {
           "runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll": {
             "rid": "win-arm",
@@ -437,7 +457,11 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
             "assemblyVersion": "7.0.8.0",
             "fileVersion": "7.0.823.31802"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         }
       },
@@ -447,7 +471,11 @@
           "Microsoft.EntityFrameworkCore": "6.0.0"
 =======
           "Microsoft.EntityFrameworkCore": "7.0.8"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
@@ -850,7 +878,11 @@
       },
       "Microsoft.NETCore.Platforms/5.0.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "Microsoft.OpenApi/1.2.3": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
@@ -897,7 +929,11 @@
           "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.20.51904"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         },
         "runtimeTargets": {
@@ -921,7 +957,11 @@
           "lib/netstandard2.0/Mono.TextTemplating.dll": {
             "assemblyVersion": "2.2.0.0",
             "fileVersion": "2.2.1.1"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         }
       },
@@ -961,7 +1001,11 @@
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.2.22727"
           }
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         }
       },
       "NUnit/3.13.0": {
@@ -1011,7 +1055,11 @@
           }
         }
       },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "Swashbuckle.AspNetCore/5.6.3": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "3.0.0",
@@ -1142,7 +1190,11 @@
           "lib/netcoreapp3.0/System.Drawing.Common.dll": {
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.20.51904"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         },
         "runtimeTargets": {
@@ -1155,7 +1207,11 @@
 =======
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.20.51904"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           },
           "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll": {
             "rid": "win",
@@ -1274,7 +1330,11 @@
           "lib/netstandard2.0/System.Runtime.Caching.dll": {
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "5.0.20.51904"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         },
         "runtimeTargets": {
@@ -1287,7 +1347,11 @@
 =======
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "5.0.20.51904"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         }
       },
@@ -1322,7 +1386,11 @@
           "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.20.51904"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         },
         "runtimeTargets": {
@@ -1439,7 +1507,11 @@
           "lib/netcoreapp3.0/System.Windows.Extensions.dll": {
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.20.51904"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         },
         "runtimeTargets": {
@@ -1452,7 +1524,11 @@
 =======
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.20.51904"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           }
         }
       }
@@ -1480,7 +1556,11 @@
       "path": "azure.identity/1.6.0",
       "hashPath": "azure.identity.1.6.0.nupkg.sha512"
     },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "Castle.Core/5.1.1": {
       "type": "package",
       "serviceable": true,
@@ -1747,7 +1827,11 @@
       "sha512": "sha512-dG+QxTeRZhtEbsN+VXF2D5z6kT1/pOFRkSTXnggugqTz3p7qSceyLqJoyGZXI8l3YsmDywgD7yfxvcy0X8uZMA==",
       "path": "microsoft.entityframeworkcore.design/7.0.8",
       "hashPath": "microsoft.entityframeworkcore.design.7.0.8.nupkg.sha512"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     },
     "Microsoft.EntityFrameworkCore.InMemory/6.0.0": {
       "type": "package",
@@ -1791,7 +1875,11 @@
       "sha512": "sha512-98zo4OdBnPXYVD+Fl+a5ofsVLokd9hsp9W1D+VeuIowG0Cbxr2gQ9PqCIqOXxafl5ykKlbO+Bmn7lLRclMOq4Q==",
       "path": "microsoft.entityframeworkcore.tools/7.0.8",
       "hashPath": "microsoft.entityframeworkcore.tools.7.0.8.nupkg.sha512"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "type": "package",
@@ -2080,7 +2168,11 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     },
     "Microsoft.OpenApi/1.2.3": {
       "type": "package",
@@ -2131,7 +2223,11 @@
       "sha512": "sha512-KZYeKBET/2Z0gY1WlTAK7+RHTl7GSbtvTLDXEZZojUdAPqpQNDL6tHv7VUpqfX5VEOh+uRGKaZXkuD253nEOBQ==",
       "path": "mono.texttemplating/2.2.1",
       "hashPath": "mono.texttemplating.2.2.1.nupkg.sha512"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     },
     "Moq/4.18.4": {
       "type": "package",
@@ -2163,7 +2259,11 @@
       "path": "newtonsoft.json.bson/1.0.2",
       "hashPath": "newtonsoft.json.bson.1.0.2.nupkg.sha512"
     },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "NUnit/3.13.0": {
       "type": "package",
       "serviceable": true,
@@ -2201,7 +2301,11 @@
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
     },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "Swashbuckle.AspNetCore/5.6.3": {
       "type": "package",
       "serviceable": true,
@@ -2286,7 +2390,11 @@
       "sha512": "sha512-tCQTzPsGZh/A9LhhA6zrqCRV4hOHsK90/G7q3Khxmn6tnB1PuNU0cRaKANP2AWcF9bn0zsuOoZOSrHuJk6oNBA==",
       "path": "system.diagnostics.diagnosticsource/5.0.0",
       "hashPath": "system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     },
     "System.Diagnostics.EventLog/6.0.0": {
       "type": "package",
@@ -2407,7 +2515,11 @@
       "sha512": "sha512-30D6MkO8WF9jVGWZIP0hmCN8l9BTY4LCsAzLIe4xFSXzs+AjDotR7DpSmj27pFskDURzUvqYYY0ikModgBTxWw==",
       "path": "system.runtime.caching/5.0.0",
       "hashPath": "system.runtime.caching.5.0.0.nupkg.sha512"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     },
     "System.Runtime.CompilerServices.Unsafe/6.0.0": {
       "type": "package",
@@ -2549,7 +2661,11 @@
       "sha512": "sha512-c1ho9WU9ZxMZawML+ssPKZfdnrg/OjR3pe0m9v8230z3acqphwvPJqzAkH54xRYm5ntZHGG1EPP3sux9H3qSPg==",
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     }
   }
 }

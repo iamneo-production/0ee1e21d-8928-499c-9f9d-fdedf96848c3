@@ -24,7 +24,11 @@
         },
         "compile": {
           "lib/net5.0/Azure.Core.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -33,7 +37,11 @@
           "lib/net6.0/Castle.Core.dll": {
 =======
           "lib/net5.0/Azure.Core.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -190,7 +198,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -199,7 +211,11 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -219,7 +235,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Core.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -228,7 +248,11 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Core.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -276,7 +300,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.Policy.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -285,7 +313,11 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.Policy.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -311,7 +343,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -320,7 +356,11 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.Relational.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Cors.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -344,7 +384,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -353,7 +397,11 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -384,7 +432,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -393,7 +445,11 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -422,7 +478,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -431,7 +491,11 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -453,7 +517,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -462,7 +530,11 @@
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -487,7 +559,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Extensions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -518,7 +594,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -557,7 +637,11 @@
         },
         "compile": {
           "lib/net6.0/Microsoft.AspNetCore.JsonPatch.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -566,7 +650,11 @@
           "lib/netstandard2.1/Microsoft.Extensions.Logging.dll": {
 =======
           "lib/net6.0/Microsoft.AspNetCore.JsonPatch.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -585,7 +673,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -634,7 +726,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -643,7 +739,11 @@
           "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -665,7 +765,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Cors.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -698,7 +802,11 @@
         },
         "compile": {
           "lib/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -732,7 +840,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -741,7 +853,11 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -763,7 +879,11 @@
         },
         "compile": {
           "lib/netcoreapp2.2/Microsoft.AspNetCore.Routing.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -772,7 +892,11 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll": {
 =======
           "lib/netcoreapp2.2/Microsoft.AspNetCore.Routing.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -794,7 +918,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -803,7 +931,11 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.Routing.Abstractions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -826,7 +958,11 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -835,7 +971,11 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {
 =======
           "lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -863,7 +1003,11 @@
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -1615,7 +1759,11 @@
         "resource": {
           "lib/netcoreapp2.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll": {
             "locale": "cs"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           },
           "lib/netcoreapp2.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll": {
             "locale": "cs"
@@ -1859,7 +2007,11 @@
         "dependencies": {
           "System.Security.AccessControl": "5.0.0",
           "System.Security.Principal.Windows": "5.0.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard2.0/_._": {
@@ -1878,7 +2030,11 @@
             "rid": "unix"
           },
 =======
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
           "runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll": {
             "assetType": "runtime",
             "rid": "win"
@@ -1895,7 +2051,11 @@
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard2.0/_._": {
@@ -1979,7 +2139,11 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -1988,7 +2152,11 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {
 =======
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -2011,7 +2179,11 @@
           }
         }
       },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "NuGet.Frameworks/5.11.0": {
         "type": "package",
         "compile": {
@@ -2103,7 +2275,11 @@
           }
         }
       },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "Swashbuckle.AspNetCore/5.6.3": {
         "type": "package",
         "dependencies": {
@@ -2195,7 +2371,11 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "System.Collections/4.0.11": {
         "type": "package",
         "dependencies": {
@@ -2226,7 +2406,11 @@
         },
         "compile": {
           "ref/netstandard2.0/_._": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -2263,7 +2447,11 @@
         },
         "compile": {
           "ref/netcoreapp2.1/System.Data.SqlClient.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -2286,7 +2474,11 @@
             "assetType": "runtime",
             "rid": "win"
           }
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         }
       },
       "System.Diagnostics.Debug/4.0.11": {
@@ -2315,7 +2507,11 @@
         "type": "package",
         "compile": {
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -2331,7 +2527,11 @@
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {
             "related": ".xml"
           }
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         }
       },
       "System.Diagnostics.EventLog/6.0.0": {
@@ -2384,7 +2584,11 @@
         "type": "package",
         "dependencies": {
           "Microsoft.Win32.SystemEvents": "5.0.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netcoreapp3.0/_._": {
@@ -2398,7 +2602,11 @@
           "lib/netcoreapp3.0/System.Drawing.Common.dll": {
             "related": ".xml"
           }
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll": {
@@ -2466,7 +2674,11 @@
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0",
           "System.Runtime": "4.3.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard1.3/System.Globalization.dll": {
@@ -2492,7 +2704,11 @@
         },
         "compile": {
           "lib/net6.0/System.IdentityModel.Tokens.Jwt.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -2501,7 +2717,11 @@
           "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {
 =======
           "lib/net6.0/System.IdentityModel.Tokens.Jwt.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -2524,7 +2744,11 @@
           "System.Runtime": "4.3.0",
           "System.Text.Encoding": "4.3.0",
           "System.Threading.Tasks": "4.3.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard1.5/System.IO.dll": {
@@ -2549,7 +2773,11 @@
           "ref/netstandard1.3/_._": {
 =======
           "ref/netstandard1.3/System.IO.FileSystem.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -2564,7 +2792,11 @@
           "ref/netstandard1.3/_._": {
 =======
           "ref/netstandard1.3/System.IO.FileSystem.Primitives.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -2657,7 +2889,11 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "System.ObjectModel/4.0.12": {
         "type": "package",
         "dependencies": {
@@ -2694,7 +2930,11 @@
           "System.IO": "4.3.0",
           "System.Reflection.Primitives": "4.3.0",
           "System.Runtime": "4.3.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard1.5/System.Reflection.dll": {
@@ -2766,7 +3006,11 @@
           "ref/netstandard1.0/System.Reflection.Extensions.dll": {
 =======
           "ref/netstandard1.0/_._": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -2798,7 +3042,11 @@
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0",
           "System.Runtime": "4.3.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard1.0/System.Reflection.Primitives.dll": {
@@ -2817,7 +3065,11 @@
           "ref/netstandard1.5/_._": {
 =======
           "ref/netstandard1.5/System.Reflection.TypeExtensions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -2843,7 +3095,11 @@
           "System.Globalization": "4.3.0",
           "System.Reflection": "4.3.0",
           "System.Runtime": "4.3.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard1.0/System.Resources.ResourceManager.dll": {
@@ -2863,7 +3119,11 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard1.5/System.Runtime.dll": {
@@ -2881,7 +3141,11 @@
         "type": "package",
         "dependencies": {
           "System.Configuration.ConfigurationManager": "5.0.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard2.0/_._": {
@@ -2941,7 +3205,11 @@
           "ref/netstandard1.3/_._": {
 =======
           "ref/netstandard1.3/System.Runtime.Handles.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -2961,7 +3229,11 @@
           "ref/netstandard1.5/_._": {
 =======
           "ref/netstandard1.5/System.Runtime.InteropServices.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -3018,7 +3290,11 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
           "System.Security.Principal.Windows": "5.0.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard2.0/_._": {
@@ -3050,7 +3326,11 @@
         },
         "compile": {
           "ref/netcoreapp3.0/System.Security.Cryptography.Cng.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -3067,7 +3347,11 @@
         },
         "runtimeTargets": {
           "runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "assetType": "runtime",
             "rid": "win"
           }
@@ -3083,7 +3367,11 @@
         "type": "package",
         "compile": {
           "ref/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -3117,7 +3405,11 @@
         },
         "compile": {
           "ref/net5.0/_._": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -3126,7 +3418,11 @@
           "lib/netcoreapp3.0/System.Security.Permissions.dll": {
 =======
           "lib/net5.0/System.Security.Permissions.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         }
@@ -3135,7 +3431,11 @@
       "System.Security.Principal.Windows/4.7.0": {
 =======
       "System.Security.Principal.Windows/5.0.0": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "type": "package",
         "compile": {
           "ref/netcoreapp3.0/_._": {
@@ -3172,7 +3472,11 @@
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0",
           "System.Runtime": "4.3.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard1.3/System.Text.Encoding.dll": {
@@ -3190,7 +3494,11 @@
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "lib/netstandard2.0/_._": {
@@ -3254,7 +3562,11 @@
         "type": "package",
         "compile": {
           "lib/netcoreapp3.0/System.Text.Json.dll": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -3265,7 +3577,11 @@
           "lib/netcoreapp3.0/System.Text.Json.dll": {
             "related": ".xml"
           }
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         }
       },
       "System.Threading/4.0.11": {
@@ -3279,7 +3595,11 @@
           "ref/netstandard1.3/System.Threading.dll": {
 =======
           "ref/netstandard1.3/_._": {
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "related": ".xml"
           }
         },
@@ -3301,7 +3621,11 @@
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0",
           "System.Runtime": "4.3.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {
@@ -3346,7 +3670,11 @@
         "type": "package",
         "dependencies": {
           "System.Drawing.Common": "5.0.0"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "ref/netcoreapp3.0/_._": {
@@ -3420,7 +3748,11 @@
         }
       },
 =======
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "dotnetapp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3443,7 +3775,11 @@
           "NUnit": "3.13.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "System.Data.SqlClient": "4.8.5"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         },
         "compile": {
           "bin/placeholder/dotnetapp.dll": {}
@@ -3939,7 +4275,11 @@
         "ref/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       ]
     },
     "Microsoft.CodeCoverage/17.1.0": {
@@ -4021,7 +4361,11 @@
       "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
       "type": "package",
       "path": "microsoft.csharp/4.7.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4037,7 +4381,11 @@
 <<<<<<< HEAD
 =======
         "lib/netstandard2.0/Microsoft.CSharp.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/portable-net45+win8+wp8+wpa81/_._",
         "lib/uap10.0.16299/_._",
         "lib/win8/_._",
@@ -4051,7 +4399,11 @@
         "microsoft.csharp.4.5.0.nupkg.sha512",
 =======
         "microsoft.csharp.4.7.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.csharp.nuspec",
         "ref/MonoAndroid10/_._",
         "ref/MonoTouch10/_._",
@@ -4104,7 +4456,11 @@
       "sha512": "mxcYU9I5TLzUegLVXiTtOE89RXN3GafL1Y+ExIbXvivvQtxplI4wxOgsiZGO4TZC18OJqui7mLVmiYpdFFImRQ==",
       "type": "package",
       "path": "microsoft.data.sqlclient/5.0.2",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4140,7 +4496,11 @@
         "lib/net462/ru/Microsoft.Data.SqlClient.resources.dll",
         "lib/net462/zh-Hans/Microsoft.Data.SqlClient.resources.dll",
         "lib/net462/zh-Hant/Microsoft.Data.SqlClient.resources.dll",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll",
         "lib/netcoreapp3.1/Microsoft.Data.SqlClient.pdb",
         "lib/netcoreapp3.1/Microsoft.Data.SqlClient.xml",
@@ -4165,7 +4525,11 @@
         "ref/net462/Microsoft.Data.SqlClient.dll",
         "ref/net462/Microsoft.Data.SqlClient.pdb",
         "ref/net462/Microsoft.Data.SqlClient.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "ref/netcoreapp3.1/Microsoft.Data.SqlClient.dll",
         "ref/netcoreapp3.1/Microsoft.Data.SqlClient.pdb",
         "ref/netcoreapp3.1/Microsoft.Data.SqlClient.xml",
@@ -4179,7 +4543,11 @@
         "runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll",
         "runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.pdb",
 =======
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll",
         "runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.pdb",
         "runtimes/unix/lib/netstandard2.0/Microsoft.Data.SqlClient.dll",
@@ -4194,7 +4562,11 @@
 =======
         "runtimes/win/lib/net462/Microsoft.Data.SqlClient.dll",
         "runtimes/win/lib/net462/Microsoft.Data.SqlClient.pdb",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll",
         "runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.pdb",
         "runtimes/win/lib/netstandard2.0/Microsoft.Data.SqlClient.dll",
@@ -4213,7 +4585,11 @@
       "sha512": "y0X5MxiNdbITJYoafJ2ruaX6hqO0twpCGR/ipiDOe85JKLU8WL4TuAQfDe5qtt3bND5Je26HnrarLSAMMnVTNg==",
       "type": "package",
       "path": "microsoft.data.sqlclient.sni.runtime/5.0.1",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4223,7 +4599,11 @@
         "microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
 =======
         "microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.data.sqlclient.sni.runtime.nuspec",
         "runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll",
         "runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll",
@@ -4256,7 +4636,11 @@
       "sha512": "J4eNwnGsaEeudWGvgEO+n9u5XYfKb/QmMjLPH/T2xUBKzuZsJ7nyNoEtNDo3DhQqyDHPxf2fDSuUwSJQFEj6JQ==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/7.0.8",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4284,7 +4668,11 @@
       "sha512": "4+Kj43oGUHPneA/uZurt9Nj9NZt8PBV0vMI+iKOUhmHXQKCkRUzpJaRKIZ1QLy8LiEL5D3/AIRfclgokdJnINQ==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.abstractions/7.0.8",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4309,7 +4697,11 @@
       "sha512": "FSEFD1j4HerUaPyOZ0/NQjZZBkxqDSx2ZKEZXOz1aOQz7PY2f1D6ZuIBTLF8zAq11f058O2cl72GXVRMfwQ5iw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.analyzers/7.0.8",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4320,7 +4712,11 @@
         "microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
 =======
         "microsoft.entityframeworkcore.analyzers.7.0.8.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
@@ -4348,7 +4744,11 @@
       "sha512": "C9NYwZdtAd0Ov2jQz4vNplifA/zmvn7BN6k7HrxRdbK4pdg18mFDQAedkJX2hGngNEMwssapzlRhsUSV0Q34rA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/7.0.8",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4373,7 +4773,11 @@
       "sha512": "w4mGjE/3XvulWqpY6hOGR3Z0oKINuYebO+S6ccQSZDFGrz3xBmPg0EenEpfs8rqFWHM4125nqA1NLProsDgDCw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlserver/7.0.8",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4384,7 +4788,11 @@
         "microsoft.entityframeworkcore.sqlserver.6.0.0.nupkg.sha512",
 =======
         "microsoft.entityframeworkcore.sqlserver.7.0.8.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
@@ -4425,7 +4833,11 @@
       "sha512": "IeimUd0TNbhB4ded3AbgBLQv2SnsiVugDyGV1MvspQFVlA07nDC7Zul7kcwH5jWN3JiTcp/ySE83AIJo8yfKjg==",
       "type": "package",
       "path": "microsoft.extensions.caching.abstractions/7.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4452,7 +4864,11 @@
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.xml",
         "microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.extensions.caching.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4467,7 +4883,11 @@
       "sha512": "xpidBs2KCE2gw1JrD0quHE72kvCaI3xFql5/Peb2GRtUuZX+dYPoK/NTdVMiM67Svym0M0Df9A3xyU0FbMQhHw==",
       "type": "package",
       "path": "microsoft.extensions.caching.memory/7.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4494,7 +4914,11 @@
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml",
         "microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.extensions.caching.memory.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4509,7 +4933,11 @@
       "sha512": "f34u2eaqIjNO9YLHBz8rozVZ+TcFiFs0F3r7nUJd7FRkVSxk8u4OpoK226mi49MwexHOR2ibP9MFvRUaLilcQQ==",
       "type": "package",
       "path": "microsoft.extensions.configuration.abstractions/7.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4536,7 +4964,11 @@
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.extensions.configuration.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4551,7 +4983,11 @@
       "sha512": "elNeOmkeX3eDVG6pYVeV82p29hr+UKDaBhrZyWvWLw/EVZSYEkZlQdkp0V39k/Xehs2Qa0mvoCvkVj3eQxNQ1Q==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection/7.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4576,7 +5012,11 @@
         "lib/net6.0/Microsoft.Extensions.DependencyInjection.xml",
         "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
         "lib/net7.0/Microsoft.Extensions.DependencyInjection.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
@@ -4585,7 +5025,11 @@
         "microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
 =======
         "microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.extensions.dependencyinjection.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4600,7 +5044,11 @@
       "sha512": "h3j/QfmFN4S0w4C2A6X7arXij/M/OVw3uQHSOFxnND4DyAzO1F9eMX7Eti7lU/OkSthEE0WzRsfT/Dmx86jzCw==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4625,7 +5073,11 @@
         "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
         "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
@@ -4634,7 +5086,11 @@
         "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
 =======
         "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4691,7 +5147,11 @@
       "sha512": "Nw2muoNrOG5U5qa2ZekXwudUn2BJcD41e65zwmDHb1fQegTX66UokLWZkJRpqSSHXDOWZ5V0iqhbxOEky91atA==",
       "type": "package",
       "path": "microsoft.extensions.logging/7.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4712,7 +5172,11 @@
         "lib/net6.0/Microsoft.Extensions.Logging.xml",
         "lib/net7.0/Microsoft.Extensions.Logging.dll",
         "lib/net7.0/Microsoft.Extensions.Logging.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/netstandard2.0/Microsoft.Extensions.Logging.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.xml",
         "lib/netstandard2.1/Microsoft.Extensions.Logging.dll",
@@ -4721,7 +5185,11 @@
         "microsoft.extensions.logging.6.0.0.nupkg.sha512",
 =======
         "microsoft.extensions.logging.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.extensions.logging.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4736,7 +5204,11 @@
       "sha512": "kmn78+LPVMOWeITUjIlfxUPDsI0R6G0RkeAMBmQxAJ7vBJn4q2dTva7pWi65ceN5vPGjJ9q/Uae2WKgvfktJAw==",
       "type": "package",
       "path": "microsoft.extensions.logging.abstractions/7.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4811,7 +5283,11 @@
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
         "microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.extensions.logging.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4839,7 +5315,11 @@
       "sha512": "lP1yBnTTU42cKpMozuafbvNtQ7QcBjr/CcK3bYOGEMH55Fjt+iecXjT6chR7vbgCMqy3PG3aNQSZgo/EuY/9qQ==",
       "type": "package",
       "path": "microsoft.extensions.options/7.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4860,7 +5340,11 @@
         "lib/net6.0/Microsoft.Extensions.Options.xml",
         "lib/net7.0/Microsoft.Extensions.Options.dll",
         "lib/net7.0/Microsoft.Extensions.Options.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/netstandard2.0/Microsoft.Extensions.Options.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Options.xml",
         "lib/netstandard2.1/Microsoft.Extensions.Options.dll",
@@ -4869,7 +5353,11 @@
         "microsoft.extensions.options.6.0.0.nupkg.sha512",
 =======
         "microsoft.extensions.options.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.extensions.options.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4884,7 +5372,11 @@
       "sha512": "um1KU5kxcRp3CNuI8o/GrZtD4AIOXDk+RLsytjZ9QPok3ttLUelLKpilVPuaFT3TFjOhSibUAso0odbOaCDj3Q==",
       "type": "package",
       "path": "microsoft.extensions.primitives/7.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4917,7 +5409,11 @@
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
         "microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4932,7 +5428,11 @@
       "sha512": "ircobISCLWbtE5eEoLKU+ldfZ8O41vg4lcy38KRj/znH17jvBiAl8oxcyNp89CsuqE3onxIpn21Ca7riyDDrRw==",
       "type": "package",
       "path": "microsoft.identity.client/4.45.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4962,7 +5462,11 @@
         "lib/uap10.0.17763/Microsoft.Identity.Client.dll",
         "lib/uap10.0.17763/Microsoft.Identity.Client.pri",
         "lib/uap10.0.17763/Microsoft.Identity.Client.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/xamarinios10/Microsoft.Identity.Client.dll",
         "lib/xamarinios10/Microsoft.Identity.Client.xml",
         "lib/xamarinmac20/Microsoft.Identity.Client.dll",
@@ -5041,7 +5545,11 @@
       "sha512": "d3h1/BaMeylKTkdP6XwRCxuOoDJZ44V9xaXr6gl5QxmpnZGdoK3bySo3OQN8ehRLJHShb94ElLUvoXyglQtgAw==",
       "type": "package",
       "path": "microsoft.identitymodel.jsonwebtokens/6.21.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5075,7 +5583,11 @@
       "sha512": "tuEhHIQwvBEhMf8I50hy8FHmRSUkffDFP5EdLsSDV4qRcl2wvOPkQxYqEzWkh+ytW6sbdJGEXElGhmhDfAxAKg==",
       "type": "package",
       "path": "microsoft.identitymodel.logging/6.21.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5109,7 +5621,11 @@
       "sha512": "0FqY5cTLQKtHrClzHEI+QxJl8OBT2vUiEQQB7UKk832JDiJJmetzYZ3AdSrPjN/3l3nkhByeWzXnhrX0JbifKg==",
       "type": "package",
       "path": "microsoft.identitymodel.protocols/6.21.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5143,7 +5659,11 @@
       "sha512": "vtSKL7n6EnAsLyxmiviusm6LKrblT2ndnNqN6rvVq6iIHAnPCK9E2DkDx6h1Jrpy1cvbp40r0cnTg23nhEAGTA==",
       "type": "package",
       "path": "microsoft.identitymodel.protocols.openidconnect/6.21.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5177,7 +5697,11 @@
       "sha512": "AAEHZvZyb597a+QJSmtxH3n2P1nIJGpZ4Q89GTenknRx6T6zyfzf592yW/jA5e8EHN4tNMjjXHQaYWEq5+L05w==",
       "type": "package",
       "path": "microsoft.identitymodel.tokens/6.21.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5216,7 +5740,11 @@
         "microsoft.net.http.headers.nuspec"
       ]
     },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "Microsoft.NET.Test.Sdk/17.1.0": {
       "sha512": "MVKvOsHIfrZrvg+8aqOF5dknO/qWrR1sWZjMPQ1N42MKMlL/zQL30FQFZxPeWfmVKWUWAOmAHYsqB5OerTKziw==",
       "type": "package",
@@ -5276,7 +5804,11 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
         "microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.netcore.platforms.nuspec",
         "runtime.json",
         "useSharedDesignerContext.txt",
@@ -5293,7 +5825,11 @@
       "sha512": "aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "type": "package",
       "path": "microsoft.netcore.targets/1.1.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5304,7 +5840,11 @@
         "microsoft.netcore.targets.1.0.1.nupkg.sha512",
 =======
         "microsoft.netcore.targets.1.1.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.netcore.targets.nuspec",
         "runtime.json"
       ]
@@ -5346,7 +5886,11 @@
         "microsoft.sqlserver.server.nuspec"
       ]
     },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "Microsoft.TestPlatform.ObjectModel/17.1.0": {
       "sha512": "OMo/FYnKGy3lZEK0gfitskRM3ga/YBt6MyCyFPq0xNLeybGOQ6HnYNAAvzyePo5WPuMiw3LX+HiuRWNjnas1fA==",
       "type": "package",
@@ -5830,7 +6374,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net46/Microsoft.Win32.Registry.dll",
@@ -5843,7 +6391,11 @@
         "microsoft.win32.registry.4.7.0.nupkg.sha512",
 =======
         "microsoft.win32.registry.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "microsoft.win32.registry.nuspec",
         "ref/net46/Microsoft.Win32.Registry.dll",
         "ref/net461/Microsoft.Win32.Registry.dll",
@@ -5852,7 +6404,11 @@
         "ref/net472/Microsoft.Win32.Registry.dll",
         "ref/net472/Microsoft.Win32.Registry.xml",
 =======
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "ref/netstandard1.3/Microsoft.Win32.Registry.dll",
         "ref/netstandard1.3/Microsoft.Win32.Registry.xml",
         "ref/netstandard1.3/de/Microsoft.Win32.Registry.xml",
@@ -5870,7 +6426,11 @@
         "runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll",
         "runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.xml",
 =======
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "runtimes/win/lib/net46/Microsoft.Win32.Registry.dll",
         "runtimes/win/lib/net461/Microsoft.Win32.Registry.dll",
         "runtimes/win/lib/net461/Microsoft.Win32.Registry.xml",
@@ -5898,7 +6458,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net461/Microsoft.Win32.SystemEvents.dll",
@@ -5917,7 +6481,11 @@
         "microsoft.win32.systemevents.nuspec",
         "ref/net461/Microsoft.Win32.SystemEvents.dll",
         "ref/net461/Microsoft.Win32.SystemEvents.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "ref/netstandard2.0/Microsoft.Win32.SystemEvents.dll",
         "ref/netstandard2.0/Microsoft.Win32.SystemEvents.xml",
         "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll",
@@ -6096,7 +6664,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -6144,7 +6716,11 @@
         "lib/netstandard2.0/Newtonsoft.Json.Bson.xml",
         "newtonsoft.json.bson.1.0.2.nupkg.sha512",
         "newtonsoft.json.bson.nuspec"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       ]
     },
     "NuGet.Frameworks/5.11.0": {
@@ -6310,7 +6886,11 @@
         "version.txt"
       ]
     },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "Swashbuckle.AspNetCore/5.6.3": {
       "sha512": "UkL9GU0mfaA+7RwYjEaBFvAzL8qNQhNqAeV5uaWUu/Z+fVgvK9FHkGCpTXBqSQeIHuZaIElzxnLDdIqGzuCnVg==",
       "type": "package",
@@ -6462,7 +7042,11 @@
         "version.txt"
       ]
     },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "System.Collections/4.0.11": {
       "sha512": "YUJGz6eFKqS0V//mLt25vFGrrCvOnsXjlvFQs+KimpwNxug9x0Pzy4PlFMU3Q2IzqAa9G2L4LsK3+9vCBK7oTg==",
       "type": "package",
@@ -6541,7 +7125,11 @@
       "sha512": "aM7cbfEfVNlEEOj3DsZP+2g9NRwbkyiAv2isQEzw7pnkDg9ekCU2m1cdJLM02Uq691OaCS91tooaxcEn8d0q5w==",
       "type": "package",
       "path": "system.configuration.configurationmanager/5.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6572,7 +7160,11 @@
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
 =======
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/net461/System.Configuration.ConfigurationManager.dll",
         "lib/net461/System.Configuration.ConfigurationManager.xml",
         "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll",
@@ -6585,7 +7177,11 @@
         "system.configuration.configurationmanager.4.7.0.nupkg.sha512",
 =======
         "system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.configuration.configurationmanager.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -6679,7 +7275,11 @@
         "version.txt"
       ]
     },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "System.Diagnostics.Debug/4.0.11": {
       "sha512": "w5U95fVKHY4G8ASs/K5iK3J5LY+/dLFd4vKejsnI/ZhBsWS9hQakfx3Zr7lRWKg4tAw9r4iktyvsTagWkqYCiw==",
       "type": "package",
@@ -6758,7 +7358,11 @@
       "sha512": "tCQTzPsGZh/A9LhhA6zrqCRV4hOHsK90/G7q3Khxmn6tnB1PuNU0cRaKANP2AWcF9bn0zsuOoZOSrHuJk6oNBA==",
       "type": "package",
       "path": "system.diagnostics.diagnosticsource/5.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6796,7 +7400,11 @@
         "system.diagnostics.diagnosticsource.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       ]
     },
     "System.Diagnostics.EventLog/6.0.0": {
@@ -6904,7 +7512,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -6914,7 +7526,11 @@
 =======
         "lib/netcoreapp3.0/System.Drawing.Common.dll",
         "lib/netcoreapp3.0/System.Drawing.Common.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/netstandard2.0/System.Drawing.Common.dll",
         "lib/xamarinios10/_._",
         "lib/xamarinmac20/_._",
@@ -6940,7 +7556,11 @@
         "system.drawing.common.4.7.0.nupkg.sha512",
 =======
         "system.drawing.common.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.drawing.common.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -7047,7 +7667,11 @@
       "sha512": "kYdVd2f2PAdFGblzFswE4hkNANJBKRmsfa2X5LG2AcWE1c7/4t0pYae1L8vfZ5xvE2nK/R9JprtToA61OSHWIg==",
       "type": "package",
       "path": "system.globalization/4.3.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7126,7 +7750,11 @@
       "sha512": "JRD8AuypBE+2zYxT3dMJomQVsPYsCqlyZhWel3J1d5nzQokSRyTueF+Q4ID3Jcu6zSZKuzOdJ1MLTkbQsDqcvQ==",
       "type": "package",
       "path": "system.identitymodel.tokens.jwt/6.21.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7160,7 +7788,11 @@
       "sha512": "3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
       "type": "package",
       "path": "system.io/4.3.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7238,7 +7870,11 @@
         "system.io.4.1.0.nupkg.sha512",
 =======
         "system.io.4.3.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.io.nuspec"
       ]
     },
@@ -7565,7 +8201,11 @@
         "version.txt"
       ]
     },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "System.ObjectModel/4.0.12": {
       "sha512": "tAgJM1xt3ytyMoW4qn4wIqgJYm7L7TShRZG4+Q4Qsi2PCcj96pXN7nRywS9KkB3p/xDUjc2HSwP9SROyPYDYKQ==",
       "type": "package",
@@ -7646,7 +8286,11 @@
       "sha512": "KMiAFoW7MfJGa9nDFNcfu+FpEdiHpWgTcS2HdMpDvt9saK3y/G4GwprPyzqjFH9NTaGPQeWNHU+iDlDILj96aQ==",
       "type": "package",
       "path": "system.reflection/4.3.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7724,7 +8368,11 @@
         "system.reflection.4.1.0.nupkg.sha512",
 =======
         "system.reflection.4.3.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.reflection.nuspec"
       ]
     },
@@ -7914,7 +8562,11 @@
       "sha512": "5RXItQz5As4xN2/YUDxdpsEkMhvw3e6aNveFXUn4Hl/udNTCNhnKp8lT9fnc3MhvGKh1baak5CovpuQUXHAlIA==",
       "type": "package",
       "path": "system.reflection.primitives/4.3.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7968,7 +8620,11 @@
         "system.reflection.primitives.4.0.1.nupkg.sha512",
 =======
         "system.reflection.primitives.4.3.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.reflection.primitives.nuspec"
       ]
     },
@@ -8036,7 +8692,11 @@
       "sha512": "/zrcPkkWdZmI4F92gL/TPumP98AVDu/Wxr3CSJGQQ+XN6wbRZcyfSKVoPo17ilb3iOr0cCRqJInGwNMolqhS8A==",
       "type": "package",
       "path": "system.resources.resourcemanager/4.3.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -8104,7 +8764,11 @@
       "sha512": "JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
       "type": "package",
       "path": "system.runtime/4.3.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -8214,7 +8878,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -8242,7 +8910,11 @@
         "system.runtime.caching.4.7.0.nupkg.sha512",
 =======
         "system.runtime.caching.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.runtime.caching.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -8492,7 +9164,11 @@
       "sha512": "hWPhJxc453RCa8Z29O91EmfGeZIHX1ZH2A8L6lYQVSaKzku2DfArSfMEb1/MYYzPQRJZeu0c9dmYeJKxW5Fgng==",
       "type": "package",
       "path": "system.runtime.interopservices.runtimeinformation/4.0.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -8513,7 +9189,11 @@
         "lib/net45/System.Runtime.InteropServices.RuntimeInformation.dll",
         "lib/win8/System.Runtime.InteropServices.RuntimeInformation.dll",
         "lib/wpa81/System.Runtime.InteropServices.RuntimeInformation.dll",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/xamarinios10/_._",
         "lib/xamarinmac20/_._",
         "lib/xamarintvos10/_._",
@@ -8562,7 +9242,11 @@
         "ref/wpa81/_._",
 =======
         "ref/netstandard1.1/System.Runtime.InteropServices.RuntimeInformation.dll",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
@@ -8598,7 +9282,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net46/System.Security.AccessControl.dll",
@@ -8636,7 +9324,11 @@
         "system.security.accesscontrol.4.7.0.nupkg.sha512",
 =======
         "system.security.accesscontrol.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.security.accesscontrol.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -8659,7 +9351,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -8679,7 +9375,11 @@
         "lib/netcoreapp2.1/System.Security.Cryptography.Cng.dll",
         "lib/netcoreapp3.0/System.Security.Cryptography.Cng.dll",
         "lib/netcoreapp3.0/System.Security.Cryptography.Cng.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/netstandard1.3/System.Security.Cryptography.Cng.dll",
         "lib/netstandard1.4/System.Security.Cryptography.Cng.dll",
         "lib/netstandard1.6/System.Security.Cryptography.Cng.dll",
@@ -8689,7 +9389,11 @@
         "lib/netstandard2.0/System.Security.Cryptography.Cng.xml",
         "lib/netstandard2.1/System.Security.Cryptography.Cng.dll",
         "lib/netstandard2.1/System.Security.Cryptography.Cng.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/uap10.0.16299/_._",
         "lib/xamarinios10/_._",
         "lib/xamarinmac20/_._",
@@ -8712,7 +9416,11 @@
 =======
         "ref/netcoreapp3.0/System.Security.Cryptography.Cng.dll",
         "ref/netcoreapp3.0/System.Security.Cryptography.Cng.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "ref/netstandard1.3/System.Security.Cryptography.Cng.dll",
         "ref/netstandard1.4/System.Security.Cryptography.Cng.dll",
         "ref/netstandard1.6/System.Security.Cryptography.Cng.dll",
@@ -8722,7 +9430,11 @@
 =======
         "ref/netstandard2.1/System.Security.Cryptography.Cng.dll",
         "ref/netstandard2.1/System.Security.Cryptography.Cng.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "ref/uap10.0.16299/_._",
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
@@ -8753,7 +9465,11 @@
         "runtimes/win/lib/netstandard1.6/System.Security.Cryptography.Cng.dll",
         "runtimes/win/lib/uap10.0.16299/_._",
         "system.security.cryptography.cng.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.security.cryptography.cng.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -8776,7 +9492,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -8813,7 +9533,11 @@
         "system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
 =======
         "system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.security.cryptography.protecteddata.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -8836,7 +9560,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net461/System.Security.Permissions.dll",
@@ -8845,7 +9573,11 @@
 =======
         "lib/net5.0/System.Security.Permissions.dll",
         "lib/net5.0/System.Security.Permissions.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "lib/netcoreapp3.0/System.Security.Permissions.dll",
         "lib/netcoreapp3.0/System.Security.Permissions.xml",
         "lib/netstandard2.0/System.Security.Permissions.dll",
@@ -8856,7 +9588,11 @@
 =======
         "ref/net5.0/System.Security.Permissions.dll",
         "ref/net5.0/System.Security.Permissions.xml",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "ref/netcoreapp3.0/System.Security.Permissions.dll",
         "ref/netcoreapp3.0/System.Security.Permissions.xml",
         "ref/netstandard2.0/System.Security.Permissions.dll",
@@ -8865,7 +9601,11 @@
         "system.security.permissions.4.7.0.nupkg.sha512",
 =======
         "system.security.permissions.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.security.permissions.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -8888,7 +9628,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net46/System.Security.Principal.Windows.dll",
@@ -8934,7 +9678,11 @@
         "system.security.principal.windows.4.7.0.nupkg.sha512",
 =======
         "system.security.principal.windows.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.security.principal.windows.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -8950,7 +9698,11 @@
       "sha512": "BiIg+KWaSDOITze6jGQynxg64naAPtqGHBwDrLaCtixsa5bKiR8dpPOHA7ge3C0JJQizJE+sfkz1wV+BAKAYZw==",
       "type": "package",
       "path": "system.text.encoding/4.3.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -9036,7 +9788,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -9068,7 +9824,11 @@
         "system.text.encoding.codepages.4.7.0.nupkg.sha512",
 =======
         "system.text.encoding.codepages.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.text.encoding.codepages.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -9269,7 +10029,11 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       ]
     },
     "System.Threading/4.0.11": {
@@ -9353,7 +10117,11 @@
       "sha512": "LbSxKEdOUhVe8BezB/9uOGGppt+nZf6e1VFyw6v3DN6lqitm0OSn2uXMOdtP0M3W4iMcqcivm2J6UgqiwwnXiA==",
       "type": "package",
       "path": "system.threading.tasks/4.3.0",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -9493,7 +10261,11 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netcoreapp3.0/System.Windows.Extensions.dll",
@@ -9506,7 +10278,11 @@
         "system.windows.extensions.4.7.0.nupkg.sha512",
 =======
         "system.windows.extensions.5.0.0.nupkg.sha512",
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -9654,7 +10430,11 @@
       ]
     },
 =======
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
     "dotnetapp/1.0.0": {
       "type": "project",
       "path": "../dotnetapp.csproj",

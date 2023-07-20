@@ -31,7 +31,11 @@
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
@@ -53,7 +57,11 @@
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.Identity.Client.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
@@ -63,7 +71,11 @@
 <<<<<<< HEAD
 =======
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
@@ -77,7 +89,11 @@
 <<<<<<< HEAD
 =======
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/NuGet.Frameworks.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/nunit.framework.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
@@ -92,7 +108,11 @@
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/System.Drawing.Common.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/System.Memory.Data.dll
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/System.Runtime.Caching.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/System.Security.Permissions.dll
@@ -176,7 +196,11 @@
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
 /home/coder/project/workspace/dotnetapp/TestProject/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll

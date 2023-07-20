@@ -21,7 +21,11 @@
 <<<<<<< HEAD
 =======
     <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.8/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.8/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props')" />
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">/home/coder/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0</PkgMicrosoft_Extensions_ApiDescription_Server>
@@ -29,6 +33,10 @@
 <<<<<<< HEAD
     <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">/home/coder/.nuget/packages/newtonsoft.json/9.0.1</PkgNewtonsoft_Json>
 =======
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
   </PropertyGroup>
 </Project>

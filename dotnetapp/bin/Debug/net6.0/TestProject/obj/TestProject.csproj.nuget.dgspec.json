@@ -139,7 +139,11 @@
               "target": "Package",
               "version": "[7.0.8, )"
             },
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -148,7 +152,11 @@
               "version": "[6.0.0, )"
 =======
               "version": "[7.0.8, )"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
@@ -166,7 +174,11 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.8, )"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             },
             "Moq": {
               "target": "Package",
@@ -185,7 +197,11 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.5, )"
+<<<<<<< HEAD
 >>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
             }
           },
           "imports": [
