@@ -10,6 +10,21 @@
         "name": "Microsoft.AspNetCore.App",
         "version": "6.0.0"
       }
+<<<<<<< HEAD
     ]
+=======
+<<<<<<< HEAD
+    ]
+=======
+    ],
+    "configProperties": {
+      "System.Reflection.NullabilityInfoContext.IsSupported": true
+    }
+<<<<<<< HEAD
+>>>>>>> b7cf1de (First Commit)
+=======
+>>>>>>> 5d98dbb4fb3b9ac77d8025c6c5a38397eb26c449
+>>>>>>> af37a315e7491cd5c4888a33b548858a1cbdb596
+>>>>>>> DotNet_React_AE_Business_Loan_2023-yakkanti-rami-reddy
   }
 }
