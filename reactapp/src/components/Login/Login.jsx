@@ -27,7 +27,7 @@ function Login() {
         event.preventDefault();
         const validationErrors = LoginAuth(values);
     
-        const url = values.userType === 'Admin' ? 'https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/login' : 'https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/login';
+        const url = values.userType === 'Admin' ? 'https://8080-cfafdbffceceecabbeeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/login' : 'https://8080-cfafdbffceceecabbeeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/login';
         if(validationErrors.Username === '' && validationErrors.Password === '' ){
             axios.post(url, values)
             .then(res => {
