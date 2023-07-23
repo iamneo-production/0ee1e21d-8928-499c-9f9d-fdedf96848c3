@@ -35,6 +35,8 @@ namespace dotnetapp
             string connectionString = Configuration.GetConnectionString("myconnstring");
             services.AddDbContext<ProductDBContext>(opt => opt.UseSqlServer(connectionString));
             services.AddScoped<IPasswordHasher, PasswordHasher>();
+
+            //CORS
             services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll", 
