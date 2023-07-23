@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+/react
+/nunit
 
 # production
 /build
