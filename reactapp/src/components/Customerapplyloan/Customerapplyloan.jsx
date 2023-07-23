@@ -226,3 +226,5 @@ function Customerapplyloan(){
     </>
     )
 }
+
+export default Customerapplyloan

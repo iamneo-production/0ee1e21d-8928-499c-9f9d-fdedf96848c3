@@ -92,3 +92,5 @@ function Adminappliedloans() {
     </>
     );
 };
+
+export default Adminappliedloans
