@@ -9,8 +9,8 @@
         <maven.compiler.target>8</maven.compiler.target>
         <sonar.organization>iamneo-production</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.sources>/,a,p,p</sonar.sources>
-        <sonar.tests>t,e,s,t</sonar.tests>
+        <sonar.sources>dotnetapp</sonar.sources>
+        <sonar.tests>nunit/test/TestProject</sonar.tests>
         <sonar.java.binaries>target</sonar.java.binaries>
     </properties>
     <dependencies>
