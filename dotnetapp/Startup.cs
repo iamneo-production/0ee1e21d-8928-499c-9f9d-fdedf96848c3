@@ -36,7 +36,7 @@ namespace dotnetapp
             services.AddDbContext<ProductDBContext>(opt => opt.UseSqlServer(connectionString));
             services.AddScoped<IPasswordHasher, PasswordHasher>();
 
-            //CORS
+            //CORS which allows All Origins, Headers and Methods
             services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll", 
