@@ -34,6 +34,8 @@ namespace dotnetapp
         {
             string connectionString = Configuration.GetConnectionString("myconnstring");
             services.AddDbContext<ProductDBContext>(opt => opt.UseSqlServer(connectionString));
+
+            //Password Hasher Interface
             services.AddScoped<IPasswordHasher, PasswordHasher>();
 
             //CORS which allows All Origins, Headers and Methods
