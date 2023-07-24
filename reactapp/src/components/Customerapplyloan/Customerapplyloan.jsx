@@ -1,7 +1,8 @@
-import React, {useState, useEffect} from "react";
+import React, {useState, useEffect, useContext} from "react";
 import axios from 'axios';
 import ApplyloanAuth from "../Auth/ApplyloanAuth";
 import { Link, Outlet, useNavigate } from 'react-router-dom';
+import { AuthContext } from '../../AuthContext';
 import './Applyloan.css'
 
 function Customerapplyloan(){
@@ -21,6 +22,7 @@ function Customerapplyloan(){
         DocumentUpload: null
     })
     const navigate = useNavigate()
+    const { setIsAuthenticated } = useContext(AuthContext);
     const [currentPage, setCurrentPage] = useState(1);
     const [touched, setTouched] = useState(false); // Add this line
 
@@ -104,8 +106,14 @@ function Customerapplyloan(){
           setCurrentPage(page);
         }
       };
+
+    const handleLogout = () => {
+    setIsAuthenticated(false); // clear authentication status
+    localStorage.removeItem('email'); // clear user info in local storage
+    navigate('/'); // navigate back to home or login page
+    }
       
-      useEffect(() => {
+    useEffect(() => {
         setError('');
         setTouched(false);
     }, [currentPage]);
@@ -129,7 +137,7 @@ function Customerapplyloan(){
                                     <Link to="/Profile" className="nav-link" id='profile'>Profile</Link>
                                 </li>
                             </ul>
-                            <Link to="/" className="nav-link" id='logout'>Logout</Link>
+                            <Link to="/" className="nav-link" id='logout' onClick={handleLogout}>Logout</Link>
                         </div>
                     </div>
                     <Outlet />

@@ -1,9 +1,20 @@
-import React from 'react'
+import React, { useState, useEffect, useContext } from "react";
 import './admin.css'
-import { Link, Outlet } from 'react-router-dom'
+import { Link, Outlet, useNavigate } from 'react-router-dom'
 import { Navbar, Nav, Button } from 'react-bootstrap'
+import { AuthContext } from '../../AuthContext';
 
-function admin() {
+function Admin() {
+
+    const { setIsAuthenticated } = useContext(AuthContext);
+    const navigate = useNavigate();
+
+    const handleLogout = () => {
+        setIsAuthenticated(false); // clear authentication status
+        localStorage.removeItem('email'); // clear user info in local storage
+        navigate('/'); // navigate back to home or login page
+      }
+
     return(
         <div className='body'><div><br/></div>
            <Navbar bg="dark" variant="dark">
@@ -17,7 +28,7 @@ function admin() {
                     <Nav.Link as={Link} to="/LoanDetails">Loan Details</Nav.Link>
                 </Nav>
                 <Nav className="ms-auto">
-                    <Button className="logout-btn" variant="outline-light" as={Link} to="/">Logout</Button>
+                    <Button className="logout-btn" variant="outline-light" as={Link} to="/" onClick={handleLogout}>Logout</Button>
                 </Nav>
             <Outlet />
             </Navbar>
@@ -25,4 +36,5 @@ function admin() {
         </div>
     )
 }
-export default admin
+
+export default Admin

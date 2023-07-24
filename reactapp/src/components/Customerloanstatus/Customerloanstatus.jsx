@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from "react";
-import { Link, Outlet } from 'react-router-dom';
+import React, { useState, useEffect, useContext } from "react";
+import { Link, Outlet, useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import { AuthContext } from '../../AuthContext';
 import './LoanStatus.css';
 
 function Customerloanstatus(){
@@ -9,6 +10,10 @@ function Customerloanstatus(){
     const [loanId, setLoanId] = useState("");
     const [loanDetails, setLoanDetails] = useState(null);
     const email = localStorage.getItem("email");
+
+    const { setIsAuthenticated } = useContext(AuthContext);
+    const navigate = useNavigate();
+
 
     const fetchLoanStatus = async () => {
         await axios.get(`https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/viewLoan/${email}`)
@@ -48,6 +53,13 @@ function Customerloanstatus(){
     const handleInputChange = (event) => {
         setLoanId(event.target.value);
     }
+
+    const handleLogout = () => {
+      setIsAuthenticated(false); // clear authentication status
+      localStorage.removeItem('email'); // clear user info in local storage
+      navigate('/'); // navigate back to home or login page
+    }
+
     return(
         <>
             <div className='body'>
@@ -67,7 +79,7 @@ function Customerloanstatus(){
                         <Link to="/Profile" className="nav-link" id='profile'>Profile</Link>
                         </li>
                     </ul>
-                    <Link to="/" className="nav-link" id='logout'>Logout</Link>
+                    <Link to="/" className="nav-link" id='logout' onClick={handleLogout}>Logout</Link>
                     </div>
                 </div>
                 <Outlet />

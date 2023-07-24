@@ -1,8 +1,20 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import './HomePage.css'
-import { Link, Outlet } from 'react-router-dom'
+import { Link, Outlet, useNavigate } from 'react-router-dom'
+import { AuthContext } from '../../AuthContext';
 
 function HomePage() {
+
+    const { setIsAuthenticated, isAuthenticated } = useContext(AuthContext);
+    console.log(isAuthenticated)
+    const navigate = useNavigate();
+
+    const handleLogout = () => {
+        setIsAuthenticated(false); // clear authentication status
+        localStorage.removeItem('email'); // clear user info in local storage
+        navigate('/'); // navigate back to home or login page
+    }
+
     return(
         <div className='body'><div><br/></div>
            <nav className="navbar navbar-expand-lg navbar-light bg-light mx-auto">
@@ -20,7 +32,7 @@ function HomePage() {
                                 <Link to="/Profile" className="nav-link" id='profile'>Profile</Link>
                             </li>
                         </ul>
-                        <Link to="/" className="nav-link" id='logout'>Logout</Link>    
+                        <Link to="/" className="nav-link" id='logout' onClick={handleLogout}>Logout</Link>    
                     </div>                
             </div>
             <Outlet />

@@ -1,39 +1,56 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
+import React, { useContext } from 'react';
 import Login from "./components/Login/Login";
 import Signup from "./components/Signup/Signup"
 import Customerapplyloan from "./components/Customerapplyloan/Customerapplyloan";
 import "./components/Signup/Signup.css"
 import './components/Login/Login.css'
 import HomePage from "./components/HomePage/HomePage";
-import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import { Navigate, Outlet, useNavigate } from 'react-router-dom';
 import Customerloanstatus from "./components/Customerloanstatus/Customerloanstatus";
 import Customerprofile from "./components/Customerprofile/Customerprofile";
-import AdminPage from "./components/AdminPage/admin"
+import Admin from "./components/AdminPage/Admin"
 import Adminappliedloans from "./components/Adminappliedloans/Adminappliedloans";
 import Loanid from "./components/Loanid/Loanid";
 import './components/Loanid/Loanid.css'
 import Adminloandetails from "./components/Adminloandetails/Adminloandetails";
+import { AuthContext } from './AuthContext';
+
 
 
 function App() {
   return (
-    <BrowserRouter>
+    <Router>
       <Routes>
-        <Route path='/' element={<Login />}></Route>
-          <Route path='/home' element={<HomePage />}></Route>
-          <Route path='/admin' element={<AdminPage />}></Route>
-          <Route path='/Applyloan' element={<Customerapplyloan />}></Route>
-          <Route path='/loanstatus' element={<Customerloanstatus />}></Route>
-          <Route path='/profile' element={<Customerprofile />}></Route>
-          <Route path='/login' element={<Login />}></Route>
-          <Route path='/Signup' element={<Signup />}></Route>
-          <Route path='/Appliedloans' element={<Adminappliedloans />}></Route>
-          <Route path='/LoanDetails' element={<Adminloandetails />}></Route>
-          <Route path='/Loanid' element={<Loanid />}></Route>
-
+        <Route path='/' element={<Login />} />
+        <Route path='/login' element={<Login />} />
+        <Route path='/Signup' element={<Signup />} />
+        <Route path='/*' element={<ProtectedRoutes />} />
       </Routes>
-    </BrowserRouter>
+    </Router>
+  );
+}
+
+const ProtectedRoutes = () => {
+  const { isAuthenticated } = useContext(AuthContext);
+
+  if(!isAuthenticated) {
+    return <Navigate to="/login" />
+  }
+
+  return (
+    <Routes>
+      <Route path='/home' element={<HomePage />} />
+      <Route path='/admin' element={<Admin />} />
+      <Route path='/Applyloan' element={<Customerapplyloan />} />
+      <Route path='/loanstatus' element={<Customerloanstatus />} />
+      <Route path='/profile' element={<Customerprofile />} />
+      <Route path='/Appliedloans' element={<Adminappliedloans />} />
+      <Route path='/LoanDetails' element={<Adminloandetails />} />
+      <Route path='/Loanid' element={<Loanid />} /> 
+    </Routes>
   );
 }
 

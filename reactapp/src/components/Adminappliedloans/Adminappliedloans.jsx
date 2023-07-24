@@ -1,14 +1,18 @@
 import axios from 'axios'
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
 import { Card, Navbar, Nav, Button, Alert } from 'react-bootstrap';
-import { Link, Outlet } from 'react-router-dom'
+import { Link, Outlet, useNavigate } from 'react-router-dom'
+import { AuthContext } from '../../AuthContext';
 import './Appliedloans.css'
 
 function Adminappliedloans() {
   const [applicants, setApplicants] = useState([]);
   const [loanStatus, setLoanStatus] = useState({});
 
-    useEffect(() => {
+  const navigate = useNavigate();
+  const { setIsAuthenticated } = useContext(AuthContext);
+
+  useEffect(() => {
         axios.get('https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/getAllLoans')
             .then(res => {
               setApplicants(res.data)
@@ -38,6 +42,12 @@ function Adminappliedloans() {
       });
     };
 
+    const handleLogout = () => {
+      setIsAuthenticated(false); // clear authentication status
+      localStorage.removeItem('email'); // clear user info in local storage
+      navigate('/'); // navigate back to home or login page
+    }
+
     return (
       <>
       <div className='body'><div><br/></div>
@@ -52,7 +62,7 @@ function Adminappliedloans() {
                     <Nav.Link as={Link} to="/LoanDetails">Loan Details</Nav.Link>
                 </Nav>
                 <Nav className="ms-auto">
-                    <Button className="logout-btn" variant="outline-light" as={Link} to="/">Logout</Button>
+                    <Button className="logout-btn" variant="outline-light" as={Link} to="/" onClick={handleLogout}>Logout</Button>
                 </Nav>
             <Outlet />
             </Navbar>
