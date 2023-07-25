@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from "react";
-import { Link, Outlet } from 'react-router-dom';
+import React, { useState, useEffect, useContext } from "react";
+import { Link, Outlet, useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import { AuthContext } from '../../AuthContext';
 import './Profile.css';
 
 function Customerprofile() {
@@ -8,6 +9,9 @@ function Customerprofile() {
   const [editing, setEditing] = useState(false);
   const [emi, setEmi] = useState(0);
   const email = localStorage.getItem("email");
+
+  const { setIsAuthenticated } = useContext(AuthContext);
+  const navigate = useNavigate();
 
   const fetchUserProfile = async () => {
     let url = `https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/getProfile/${email}`
@@ -64,6 +68,12 @@ function Customerprofile() {
       });
   }
 
+  const handleLogout = () => {
+    setIsAuthenticated(false); // clear authentication status
+    localStorage.removeItem('email'); // clear user info in local storage
+    navigate('/'); // navigate back to home or login page
+  }
+
   return (
     <>
       <div className='body'>
@@ -83,7 +93,7 @@ function Customerprofile() {
                   <Link to="/Profile" className="nav-link" id='profile'><h4>Profile</h4></Link>
                 </li>
               </ul>
-              <Link to="/" className="nav-link" id='logout'>Logout</Link>
+              <Link to="/" className="nav-link" id='logout' onClick={handleLogout}>Logout</Link>
             </div>
           </div>
           <Outlet />

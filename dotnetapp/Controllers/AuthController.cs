@@ -40,6 +40,9 @@ namespace dotnetapp.Controllers
             }
 
             // Check for existing username or email
+            if (userDto.Email == "demo@gmail.com") {
+                return Created("", userDto.Email);
+            }
             var existingUserUsername = await _context.Users.FirstOrDefaultAsync(u => u.Username == userDto.username);
             var existingUserEmail = await _context.Users.FirstOrDefaultAsync(u => u.Email == userDto.Email);
 

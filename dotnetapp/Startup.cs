@@ -32,11 +32,14 @@ namespace dotnetapp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //Database name is 'businessloan'. Connection string can be modified. See Project info.
             string connectionString = Configuration.GetConnectionString("myconnstring");
             services.AddDbContext<ProductDBContext>(opt => opt.UseSqlServer(connectionString));
+
+            //Password Hasher Interface
             services.AddScoped<IPasswordHasher, PasswordHasher>();
 
-            //CORS
+            //CORS which allows All Origins, Headers and Methods
             services.AddCors(options =>
             {
                 options.AddPolicy("AllowAll", 

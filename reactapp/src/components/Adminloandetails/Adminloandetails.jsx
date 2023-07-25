@@ -1,13 +1,17 @@
 import axios from 'axios'
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
 import { Card, Navbar, Nav, Button, Alert, Modal } from 'react-bootstrap';
-import { Link, Outlet } from 'react-router-dom'
+import { Link, Outlet, useNavigate } from 'react-router-dom'
+import { AuthContext } from '../../AuthContext';
 import './LoanDetails.css'
 
 function Adminloandetails() {
     const [loans, setLoans] = useState([]);
     const [showModal, setShowModal] = useState(false);
     const [loanToDelete, setLoanToDelete] = useState(null);
+
+    const navigate = useNavigate();
+    const { setIsAuthenticated } = useContext(AuthContext);
 
     const fetchLoans = async () => {
          axios.get('https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/getAllLoans')
@@ -39,6 +43,12 @@ function Adminloandetails() {
         })     
     };
 
+    const handleLogout = () => {
+        setIsAuthenticated(false); // clear authentication status
+        localStorage.removeItem('email'); // clear user info in local storage
+        navigate('/'); // navigate back to home or login page
+      }
+
 
     return (
         <>
@@ -54,7 +64,7 @@ function Adminloandetails() {
                     <Nav.Link as={Link} to="/LoanDetails">Loan Details</Nav.Link>
                 </Nav>
                 <Nav className="ms-auto">
-                    <Button className="logout-btn" variant="outline-light" as={Link} to="/">Logout</Button>
+                    <Button className="logout-btn" variant="outline-light" as={Link} to="/" onClick={handleLogout}>Logout</Button>
                 </Nav>
             <Outlet />
             </Navbar>
