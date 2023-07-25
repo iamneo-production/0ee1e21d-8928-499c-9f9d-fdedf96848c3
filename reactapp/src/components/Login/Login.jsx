@@ -1,8 +1,10 @@
 import React,{useState} from 'react';
+import { useContext } from 'react';
 import { Link, Outlet,useNavigate} from 'react-router-dom';
 import LoginAuth from '../Auth/LoginAuth';
 import { Modal, Button } from 'react-bootstrap';
 import axios from 'axios';
+import { AuthContext } from '../../AuthContext';
 import './Login.css';
 import './modal.css';
 
@@ -16,8 +18,11 @@ function Login() {
 
     const navigate = useNavigate()
 
+    const { setIsAuthenticated } = useContext(AuthContext);
+    const { isAuthenticated } = useContext(AuthContext);
+    
     const [errors, setError] = useState('')
-
+    
     const handleInput = (event)=> {
         setValues(prev => ({...prev,[event.target.name]:event.target.value}))
     }
@@ -33,6 +38,7 @@ function Login() {
             .then(res => {
                 if(res.data === true) {
                     console.log(res);
+                    setIsAuthenticated(true);
                     if(values.userType === 'Admin') {
                         navigate('/admin');
                     }else{
