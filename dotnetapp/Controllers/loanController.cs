@@ -177,7 +177,7 @@ namespace dotnetapp.Controllers
             // If no user is found, return a NotFound response
             if (user == null)
             {
-                return NotFound();
+                return Ok(new { message = "NotFound", data = false });
             }
 
             // Get the loan applications for this user that also have the same email
