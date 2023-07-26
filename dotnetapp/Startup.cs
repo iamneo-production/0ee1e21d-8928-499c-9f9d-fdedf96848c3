@@ -32,7 +32,7 @@ namespace dotnetapp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //Database name is 'businessloan'. Connection string can be modified. See Project info.
+          
             string connectionString = Configuration.GetConnectionString("myconnstring");
             services.AddDbContext<ProductDBContext>(opt => opt.UseSqlServer(connectionString));
 
@@ -56,7 +56,6 @@ namespace dotnetapp
             services.AddControllersWithViews().AddNewtonsoftJson(options =>
             options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore).AddNewtonsoftJson(options => options.SerializerSettings.ContractResolver = new DefaultContractResolver());
 
-
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -75,6 +74,7 @@ namespace dotnetapp
             }
 
             app.UseHttpsRedirection();
+
 
             app.UseCors("AllowAll");
 
