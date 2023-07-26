@@ -119,7 +119,7 @@ namespace dotnetapp.Controllers
 
             if (user == null)
             {
-                return return Ok(new { message = "NotFound", data = false });
+                return Ok(new { message = "NotFound", data = false });
             }
 
             var loanApplicants = user.LoanApplicants.Where(la => la.ApplicantEmail == user.Email)
@@ -180,7 +180,7 @@ namespace dotnetapp.Controllers
 
             if (loanapplicant == null)
             {
-                return return Ok(new { message = "NotFound", data = false });
+                return Ok(new { message = "NotFound", data = false });
             }
 
             var document = loanapplicant.Documents;
