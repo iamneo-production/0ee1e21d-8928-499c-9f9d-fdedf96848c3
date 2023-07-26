@@ -39,7 +39,10 @@
           "targetAlias": "net6.0",
           "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ce109f3544589511b515cdf8a762871efdd46cd7
             "Microsoft.AspNetCore.Mvc.Cors": {
               "target": "Package",
               "version": "[2.1.3, )"
@@ -48,7 +51,10 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+<<<<<<< HEAD
 >>>>>>> 01cb01e803fc48e37035bbfee5cdbc0649852e00
+=======
+>>>>>>> ce109f3544589511b515cdf8a762871efdd46cd7
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -76,10 +82,13 @@
               "version": "[3.13.0, )"
             },
 <<<<<<< HEAD
+<<<<<<< HEAD
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
 =======
+=======
+>>>>>>> ce109f3544589511b515cdf8a762871efdd46cd7
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -91,7 +100,10 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.5, )"
+<<<<<<< HEAD
 >>>>>>> 01cb01e803fc48e37035bbfee5cdbc0649852e00
+=======
+>>>>>>> ce109f3544589511b515cdf8a762871efdd46cd7
             }
           },
           "imports": [
