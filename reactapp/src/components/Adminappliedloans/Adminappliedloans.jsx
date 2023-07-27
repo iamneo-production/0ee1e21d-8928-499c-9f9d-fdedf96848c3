@@ -13,14 +13,14 @@ function Adminappliedloans() {
   const { setIsAuthenticated } = useContext(AuthContext);
 
   useEffect(() => {
-        axios.get('https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/getAllLoans')
+        axios.get('https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/getAllLoans')
             .then(res => {
               setApplicants(res.data)
               console.log(applicants)});
     }, []);
 
     const approveLoan = (id) => {
-      fetch(`https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/approve/${id}`, {
+      fetch(`https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/approve/${id}`, {
         method: 'PUT'
       }).then(() => {
         console.log('Done')
@@ -32,7 +32,7 @@ function Adminappliedloans() {
     };
   
     const rejectLoan = (id) => {
-      fetch(`https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/reject/${id}`, {
+      fetch(`https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/reject/${id}`, {
         method: 'PUT'
       }).then(() => {
         setLoanStatus({...loanStatus, [id]: "rejected"});

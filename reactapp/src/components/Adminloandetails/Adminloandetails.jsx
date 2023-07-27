@@ -14,7 +14,7 @@ function Adminloandetails() {
     const { setIsAuthenticated } = useContext(AuthContext);
 
     const fetchLoans = async () => {
-         axios.get('https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/getAllLoans')
+         axios.get('https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/getAllLoans')
         .then(response => {
             var res = response.data
             setLoans(res.filter(loan => loan.IsApproved !== null))})
@@ -32,7 +32,7 @@ function Adminloandetails() {
 
     const deleteLoan = async (id) => {
         console.log(id,'active2')
-        axios.delete(`https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/deleteLoan/${id}`)
+        axios.delete(`https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/deleteLoan/${id}`)
         .then(res => {
             if(res.status === 200){
                 fetchLoans();

@@ -65,7 +65,7 @@ function Customerapplyloan(){
             formData.append("DocumentUpload", values.DocumentUpload);
         }
         console.log(values)
-        axios.post('https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/addLoan', formData, {
+        axios.post('https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/addLoan', formData, {
             headers: {
               'Content-Type': 'multipart/form-data'
             }

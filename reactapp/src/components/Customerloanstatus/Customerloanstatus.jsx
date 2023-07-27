@@ -16,7 +16,7 @@ function Customerloanstatus(){
 
 
     const fetchLoanStatus = async () => {
-        await axios.get(`https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/viewLoan/${email}`)
+        await axios.get(`https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/viewLoan/${email}`)
         .then(res => {
             console.log("Server response:", res)
             if (res.status === 200) {
@@ -35,7 +35,7 @@ function Customerloanstatus(){
     }, []);
 
     const trackLoan = () => {
-        axios.get(`https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/getLoanById/${loanId}`)
+        axios.get(`https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/getLoanById/${loanId}`)
         .then(res => {
             console.log(res)
             if (res.status === 200) {

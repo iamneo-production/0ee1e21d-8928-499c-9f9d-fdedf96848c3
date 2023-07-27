@@ -14,7 +14,7 @@ function Customerprofile() {
   const navigate = useNavigate();
 
   const fetchUserProfile = async () => {
-    let url = `https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/getProfile/${email}`
+    let url = `https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/getProfile/${email}`
     await axios.get(url)
         .then(res => {
           console.log(res)
@@ -57,7 +57,7 @@ function Customerprofile() {
   const editUserProfile = async (event) => {
     event.preventDefault();
     console.log(user,'Edited');
-    await axios.put(`https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/editProfile/${email}`, user)
+    await axios.put(`https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/editProfile/${email}`, user)
         .then(res => {
           if (res.status === 200) {
             setEditing(false);

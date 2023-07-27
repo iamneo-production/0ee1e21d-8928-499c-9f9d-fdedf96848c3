@@ -37,10 +37,10 @@ function Signup(){
             console.log(values);
     
             if (values.userRole === "User"){
-                postPromise = axios.post('https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/signup',values);
+                postPromise = axios.post('https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/user/signup',values);
             }
             if (values.userRole === 'Admin') {
-                postPromise = axios.post('https://8080-cdfbadaabbeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/signup',values);
+                postPromise = axios.post('https://8080-feeacefcdebeabbcfdaafcbdaebccfbaabccd.project.examly.io/admin/signup',values);
             }
     
             postPromise.then(res => {
