@@ -1,7 +1,7 @@
 function ApplyloanAuth(values) {
     let error={}
-    const email_pattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
-    const mobilenumber_pattern = /^[0-9]{10}$/
+    const email_pattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/
+    const mobilenumber_pattern = /^[6789]\d{9}$/
     const aadhar_pattern = /^[0-9]{12}$/
     const pan_pattern = /^[A-Z]{5}[0-9]{4}[A-Z]{1}$/
     const salary_pattern= /^[0-9]*$/
