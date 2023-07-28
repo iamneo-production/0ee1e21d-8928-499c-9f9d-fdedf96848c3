@@ -3,6 +3,7 @@ import { useContext } from 'react';
 import { Link, Outlet,useNavigate} from 'react-router-dom';
 import LoginAuth from '../Auth/LoginAuth';
 import { Modal, Button } from 'react-bootstrap';
+import { Navbar, Nav, Container, Col } from 'react-bootstrap';
 import axios from 'axios';
 import { AuthContext } from '../../AuthContext';
 import './Login.css';
@@ -71,47 +72,72 @@ function Login() {
     
 
     return (
-    <>
-        <div  className='d-flex justify-content-center align-items-center p-4 w-100 loginHead'>
-        <strong>Login</strong>
+      <>
+        <div className="text-center py-3 w-100" style={{backgroundColor: '#3F735E'}}>
+            <h1 className="font-weight-bold text-white">Business Loan Management</h1>
         </div>
-        <br/>
+        <br></br>
+        <br></br>
+        <div className="container mt-1">
+            <div className="row justify-content-center mt-5">
+                <div className="col-12 col-sm-8 col-md-6 col-lg-4">
+                    <div className="card shadow mb-4 bg-white">
+                        <div className="card-header text-center py-3" style={{backgroundColor: '#3F5F73'}}>
+                            <h2 className="font-weight-bold text-white">Login</h2>
+                        </div>
+                        <div className="card-body">
+                            <form onSubmit={handleSubmit}>
+                                <div className='mb-4' style={{marginTop: '10px'}} >
+                                    <input type="text" id="email" placeholder='Enter Email' name='Username'
+                                    onChange={handleInput} className='form-control rounded-0' autoComplete='off'/>
+                                    {errors.Username && <span className='text-danger'>{errors.Username}</span>}
+                                </div>
+                                <div className='mb-4'>
+                                    <input type="password" id="password" placeholder='Enter Password' name='Password'
+                                    onChange={handleInput} className='form-control rounded-0' />
+                                    {errors.Password && <span className='text-danger'>{errors.Password}</span>}
+                                </div>
+                                <div class='mb-3' style={{textAlign: 'center'}}>
+                                    <label style={{marginRight: '20px'}}><input type="radio" value="User" name="userType" checked={values.userType === 'User'} onChange={handleInput} /> User</label>
+                                    <label><input type="radio" value="Admin" name="userType" checked={values.userType === 'Admin'} onChange={handleInput} /> Admin</label>
+                                </div>
+
+                                <div className='row'>
+                                    <div className='col-12' style={{marginBottom: '20px'}}>
+                                        <button type='submit' id="loginButton" className='btn btn-success w-100 rounded-0'> Log in</button>
+                                    </div>
+                                    <div className='col-4'>
+                                        <div className=" text-center">
+                                            <p>New User/admin?</p>
+                                        </div>
+                                    </div>
+                                    <div className='col-8'>
+                                        <Link to='/signup' type="button" id='signupLink' className="btn btn-primary rounded-0"> Sign up </Link>
+                                    </div>
+                                    <Outlet/>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </>
+
+      /* <div className='d-flex justify-content-center align-items-center p-4 w-100' style={{backgroundColor: '#4a917a'}}>
+            <h1 style={{color: '#ffffff'}}>Business Loan Management</h1>
+      </div>
+      <div  className='d-flex justify-content-center align-items-center p-4 w-100 loginHead'>
+        <strong>Login</strong>
+      </div>
+      <br />
         <div className='d-flex justify-content-center align-items-center vh-100 loginPage'>
                 <div className='p-4 rounded w-25 loginForm'>
                     <form onSubmit={handleSubmit}>
-                        <div className='mb-3'>
-                            <input type="text" id="email" placeholder='Enter Email' name='Username'
-                            onChange={handleInput} className='form-control rounded-0' autoComplete='off'/>
-                            {errors.Username && <span className='text-danger'>{errors.Username}</span>}
-                        </div>
-                        <div className='mb-3'>
-                            <input type="password" id="password" placeholder='Enter Password' name='Password'
-                            onChange={handleInput} className='form-control rounded-0' />
-                            {errors.Password && <span className='text-danger'>{errors.Password}</span>}
-                        </div>
-                        <div class='mb-3' style={{textAlign: 'center'}}>
-                            <label style={{marginRight: '20px'}}><input type="radio" value="User" name="userType" checked={values.userType === 'User'} onChange={handleInput} /> User</label>
-                            <label><input type="radio" value="Admin" name="userType" checked={values.userType === 'Admin'} onChange={handleInput} /> Admin</label>
-                        </div>
-
-                        <div className='row'>
-                            <div className='col-12' style={{marginBottom: '20px'}}>
-                                <button type='submit' id="loginButton" className='btn btn-success w-100 rounded-0'> Log in</button>
-                            </div>
-                            <div className='col-4'>
-                                <div className=" text-center">
-                                    <p>New User/admin?</p>
-                                </div>
-                            </div>
-                            <div className='col-8'>
-                                <Link to='/signup' type="button" id='signupLink' className="btn btn-primary rounded-0"> Sign up </Link>
-                            </div>
-                            <Outlet/>
-                        </div>
+                        
                     </form>
                 </div>
-        </div>
-    </>
+        </div> */
     )
   }
 

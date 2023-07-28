@@ -194,5 +194,29 @@ namespace dotnetapp.Controllers
 
             return DocumentDto;
         }
+
+        [HttpGet("user/getDocuments/{email}")]
+        public async Task<ActionResult<DocumentDTO>> getDocuments(string email)
+        {
+            var loanapplicant = await _context.LoanApplicants
+                                     .Include(l => l.Documents)
+                                     .FirstOrDefaultAsync(l => l.ApplicantEmail == email);
+
+            if (loanapplicant == null)
+            {
+                return Ok(new { message = "NotFound", data = false });
+            }
+
+            var document = loanapplicant.Documents;
+
+            var DocumentDto = new DocumentDTO
+            {
+                LoanApplicantId = document.LoanApplicantId,
+                DocumentType = document.DocumentType,
+                DocumentUpload = document.DocumentUpload
+            };
+
+            return DocumentDto;
+        }
     }
 }

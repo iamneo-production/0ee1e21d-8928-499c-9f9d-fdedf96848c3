@@ -61,7 +61,7 @@ function Adminloandetails() {
                 </Navbar.Brand>
                 <Nav className="mr-auto">
                     <Nav.Link as={Link} to="/AppliedLoans">Applied Loans</Nav.Link>
-                    <Nav.Link as={Link} to="/LoanDetails">Loan Details</Nav.Link>
+                    <Nav.Link as={Link} to="/LoanDetails"><h3>Loan Details</h3></Nav.Link>
                 </Nav>
                 <Nav className="ms-auto">
                     <Button className="logout-btn" variant="outline-light" as={Link} to="/" onClick={handleLogout}>Logout</Button>

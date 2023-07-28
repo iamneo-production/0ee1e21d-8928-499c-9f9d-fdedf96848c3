@@ -7,6 +7,9 @@
     font-size: larger !important;
     font-weight: bold !important;
 }
+h3 {
+  color: white;
+}
 .logout-btn {
     background-color: #dc3545;
     border-color: #dc3545;
