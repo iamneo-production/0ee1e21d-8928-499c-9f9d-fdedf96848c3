@@ -1,0 +1,37 @@
+.logout-btn {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  size: 2cm;
+}
+.logout-btn:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+.ms-auto {
+  padding-right: 1cm;
+}
+h3 {
+  color: white;
+}
+.brand-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 2cm;
+  font-size: larger;
+}
+
+.brand-subtext {
+  font-size: 1rem;
+  text-align: center;
+  justify-content: center;
+}
+
+.mr-auto {
+  font-size: large;
+}
+
+.custom-modal .modal-dialog {
+  max-width: 75% !important; /* Or whatever maximum width you want */
+}
+
